@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">League Champions</string>
+    <string name="champions_name">Champions Name</string>
+    <string name="description">Description</string>
+    <string name="champion_thumbnail">Champion thumbnail</string>
+    <string name="detail_photo">detail photo</string>
+    <string name="quotes">quotes</string>
+    <string name="share">share</string>
+    <string name="author">Irgiyansyah</string>
+    <string name="email">Irgiyansy@gmail.com</string>
+    <string name="about_app_title">About App</string>
+    <string name="about_app_description">This app is a straightforward mobile app designed to introduce League of Legends champions in a visually appealing format. It showcases champion photos, names, quotes, and brief descriptions to provide a quick overview of each champion.</string>
+    <string name="by_irgiys">by Irgiys</string>
+    <string name="resource">Resource</string>
+    <string name="champions_universe_of_league_of_legends">Champions - Universe of League of Legends</string>
+    <string name="back">back</string>
+    <string name="about_page">About Page</string>
+    <string-array name="data_name">
+        <item>Aatrox</item>
+        <item>Amumu</item>
+        <item>Aphelios</item>
+        <item>Caitlyn</item>
+        <item>Diana</item>
+        <item>Jarvan IV</item>
+        <item>Master Yi</item>
+        <item>Olaf</item>
+        <item>Rengar</item>
+        <item>Shen</item>
+        <item>Teemo</item>
+        <item>Wukong</item>
+        <item>Yasuo</item>
+        <item>Zed</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Once honored defenders of Shurima against the Void, Aatrox and his brethren would eventually become an even greater threat to Runeterra, and were defeated only by cunning mortal sorcery. But after centuries of imprisonment, Aatrox was the first to find freedom once more, corrupting and transforming those foolish enough to try and wield the magical weapon that contained his essence. Now, with stolen flesh, he walks Runeterra in a brutal approximation of his previous form, seeking an apocalyptic and long overdue vengeance.</item>
+        <item>Legend claims that Amumu is a lonely and melancholy soul from ancient Shurima, roaming the world in search of a friend. Doomed by an ancient curse to remain alone forever, his touch is death, his affection ruin. Those who claim to have seen him describe a living cadaver, small in stature and wrapped in creeping bandages. Amumu has inspired myths, songs, and folklore told and retold for generations—such that it is impossible to separate truth from fiction.</item>
+        <item>Emerging from moonlight\’s shadow with weapons drawn, Aphelios kills the enemies of his faith in brooding silence—speaking only through the certainty of his aim, and the firing of each gun. Though fueled by a poison that renders him mute, he is guided by his sister Alune in her distant temple sanctuary from where she pushes an arsenal of moonstone weapons into his hands. For as long as the moon shines overhead, Aphelios will never be alone.</item>
+        <item>Renowned as its finest peacekeeper, Caitlyn is also Piltover’s best shot at ridding the city of its elusive criminal elements. She is often paired with Vi, acting as a cool counterpoint to her partner’s more impetuous nature. Even though she carries a one-of-a-kind hextech rifle, Caitlyn\’s most powerful weapon is her superior intellect, allowing her to lay elaborate traps for any lawbreakers foolish enough to operate in the City of Progress.</item>
+        <item>Bearing her crescent moonblade and clad in shimmering armor the color of winter snow at night, Diana is a living embodiment of the silver moon\’s power. Imbued with the essence of an Aspect from beyond Targon\’s towering summit, Diana is no longer wholly human, and struggles to understand her power and purpose in this world.</item>
+        <item>As the king\’s only son, Prince Jarvan is heir apparent to the throne of Demacia. Raised to be a paragon of his nation\’s greatest virtues, he is forced to balance the heavy expectations placed upon him with his own desire to prove himself on the battlefield. An exceptional warrior in his own right, Jarvan also inspires his troops with fearsome courage and selfless determination, raising his family\’s colors high and revealing his true strength as a future leader of his people.</item>
+        <item>Master Yi has tempered his body and sharpened his mind, so that thought and action have become almost as one. Though he chooses to enter into violence only as a last resort, the grace and speed of his blade ensures resolution is always swift. As one of the last living practitioners of the Ionian art of Wuju, Yi has devoted his life to continuing the legacy of his people—scrutinizing potential new disciples with the Seven Lenses of Insight to identify the most worthy among them.</item>
+        <item>An unstoppable force of destruction, the axe-wielding Olaf wants nothing but to die in glorious combat. Hailing from the brutal Freljordian peninsula of Lokfar, he once received a prophecy foretelling his peaceful passing—a coward\'s fate, and a great insult among his people. Seeking death, and fueled by rage, he rampaged across the land, slaughtering scores of great warriors and legendary beasts in search of any opponent who could stop him. Now a brutal enforcer for the Winter\'s Claw, he seeks his end in the great wars to come.</item>
+        <item>Rengar is a ferocious vastayan trophy hunter who lives for the thrill of tracking down and killing dangerous creatures. He scours the world for the most fearsome beasts he can find, especially seeking any trace of Kha\’Zix, the void creature who scratched out his eye. Rengar stalks his prey neither for food nor glory, but for the sheer beauty of the pursuit.</item>
+        <item>Among the secretive, Ionian warriors known as the Kinkou, Shen serves as their leader, the Eye of Twilight. He longs to remain free from the confusion of emotion, prejudice, and ego, and walks the unseen path of dispassionate judgment between the spirit realm and the physical world. Tasked with enforcing the equilibrium between them, Shen wields blades of steel and arcane energy against any who would threaten it.</item>
+        <item>Undeterred by even the most dangerous and threatening of obstacles, Teemo scouts the world with boundless enthusiasm and a cheerful spirit. A yordle with an unwavering sense of morality, he takes pride in following the Bandle Scout\'s Code, sometimes with such eagerness that he is unaware of the broader consequences of his actions. Though some say the existence of the Scouts is questionable, one thing is for certain: Teemo\'s conviction is nothing to be trifled with.</item>
+        <item>Wukong is a vastayan trickster who uses his strength, agility, and intelligence to confuse his opponents and gain the upper hand. After finding a lifelong friend in the warrior known as Master Yi, Wukong became the last student of the ancient martial art known as Wuju. Armed with an enchanted staff, Wukong seeks to prevent Ionia from falling to ruin.</item>
+        <item>An Ionian of deep resolve, Yasuo is an agile swordsman who wields the air itself against his enemies. As a proud young man, he was falsely accused of murdering his master—unable to prove his innocence, he was forced to slay his own brother in self-defense. In time, his master\’s true killer was revealed, and his brother mysteriously returned from death, yet Yasuo still could not forgive himself for all he had done. Now, he wanders the world with only the wind to guide his blade.</item>
+        <item>Utterly ruthless and without mercy, Zed is the leader of the Order of Shadow, an organization he created with the intent of militarizing Ionia\’s magical and martial traditions to drive out Noxian invaders. During the war, desperation led him to unlock the secret shadow form—a malevolent spirit magic as dangerous and corrupting as it is powerful. Zed has mastered all of these forbidden techniques to destroy anything he sees as a threat to his nation, or his new order.</item>
+
+    </string-array>
+    <string-array name="data_quotes">
+        <item>I must destroy even hope…</item>
+        <item>Solitude can be lonelier than death.</item>
+        <item>Our faith is proven fate each time we deny it.</item>
+        <item>To be the best hunter, you have to be able to think like your prey.</item>
+        <item>I am the light coursing in the soul of the moon.</item>
+        <item>Words may make a ruler, but only actions make history.</item>
+        <item>The edge of the sharpest blade is no match for the calm of the peaceful mind.</item>
+        <item>When you meet your ancestors, tell them Olaf sent you.</item>
+        <item>Prey on the weak and you may survive. Prey on the strong and you will truly live.</item>
+        <item>The Eye is blind to fear, to hate, to love – to all things that would sway equilibrium.</item>
+        <item>Teemo rides a thin line between chipper compatriot and unrepentant killer, but there\'s no one else I\'d rather have as a friend.</item>
+        <item>My journey is only beginning…</item>
+        <item>Death is like the wind—always by my side.</item>
+        <item>Balance is a fool\'s master.</item>
+
+    </string-array>
+    <integer-array name="data_thumbanail">
+        <item>@drawable/thumb_aatrox</item>
+        <item>@drawable/thumb_amumu</item>
+        <item>@drawable/thumb_aphelios</item>
+        <item>@drawable/thumb_caitlyn</item>
+        <item>@drawable/thumb_diana</item>
+        <item>@drawable/thumb_jarvan</item>
+        <item>@drawable/thumb_masteryi</item>
+        <item>@drawable/thumb_olaf</item>
+        <item>@drawable/thumb_rengar</item>
+        <item>@drawable/thumb_shen</item>
+        <item>@drawable/thumb_teemo</item>
+        <item>@drawable/thumb_wukong</item>
+        <item>@drawable/thumb_yasuo</item>
+        <item>@drawable/thumb_zed</item>
+    </integer-array>
+    <integer-array name="data_jumbo">
+        <item>@drawable/jumbo_aatrox</item>
+        <item>@drawable/jumbo_amumu</item>
+        <item>@drawable/jumbo_aphelios</item>
+        <item>@drawable/jumbo_caitlyn</item>
+        <item>@drawable/jumbo_diana</item>
+        <item>@drawable/jumbo_jarvan</item>
+        <item>@drawable/jumbo_masteryi</item>
+        <item>@drawable/jumbo_olaf</item>
+        <item>@drawable/jumbo_rengar</item>
+        <item>@drawable/jumbo_shen</item>
+        <item>@drawable/jumbo_teemo</item>
+        <item>@drawable/jumbo_wukong</item>
+        <item>@drawable/jumbo_yasuo</item>
+        <item>@drawable/jumbo_zed</item>
+    </integer-array>
+</resources>
