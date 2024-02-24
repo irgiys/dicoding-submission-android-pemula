@@ -22,3 +22,6 @@ Pada submission ini saya membuat Aplikasi yang menampilkan list Champions pada L
 -   [x] Detail Activiy
 
 #### Screenshoot
+
+![image1](https://github.com/irgiys/dicoding-submission-android-pemula/assets/78129214/ad96482e-ddc8-4d66-9861-140c48cdcd8a)
+
